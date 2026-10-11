@@ -1,0 +1,16 @@
+{
+  "_source": "M-China 官方 MCP query-meal-detail 的真实返回，已用 combo.expander.compact_detail() 裁掉特调选项",
+  "_note": "components 是套餐默认搭配（isDefault=1）的子餐品名。这些名字恰好就是 list-nutrition-foods 里的标准条目名，因此可以逐项查表累加出套餐的真实热量。",
+  "_captured_at": "2026-10-11T23:02:26+08:00",
+  "_store": { "storeCode": "1450713", "storeName": "麦当劳上海黄浦华旭国际大厦餐厅" },
+  "details": {
+    "9900005466": {
+      "name": "巨无霸三件套",
+      "components": ["巨无霸", "中薯条", "可乐中杯"]
+    },
+    "9900005462": {
+      "name": "板烧鸡腿堡三件套",
+      "components": ["板烧鸡腿堡", "中薯条", "可乐中杯"]
+    }
+  }
+}
